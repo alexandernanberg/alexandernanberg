@@ -3,9 +3,9 @@
 	<br>
 	<br>
 	<br>
-	<picture width="40" height="40">
+	<picture >
 	  <source srcset="https://github.githubassets.com/images/mona-loading-dark.gif" media="(prefers-color-scheme: dark)">
-	  <img src="https://github.githubassets.com/images/mona-loading.gif">
+	  <img src="https://github.githubassets.com/images/mona-loading.gif" width="40" height="40">
 	</picture>
 	<p>Loading</p>
 	<br>
