@@ -60,7 +60,7 @@
 - [Enable tree-shaking](https://github.com/date-fns/date-fns/pull/711)
 - [Update Swedish translation](https://github.com/date-fns/date-fns/pull/749) [<sup>2</sup>](https://github.com/date-fns/date-fns/pull/570)
 
-### [mdx](https://github.com/mdx-js/mdx/)
+### [`mdx`](https://github.com/mdx-js/mdx/)
 
 - [Upgrade to Babel v7](https://github.com/mdx-js/mdx/pull/494)
 - [Change wrapper default element to `React.Fragment`](https://github.com/mdx-js/mdx/pull/470)
