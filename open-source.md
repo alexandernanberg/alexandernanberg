@@ -1,0 +1,104 @@
+# Contributions to Open Source
+
+## Personal Open Source Projects
+
+### [`eslint-plugin-fbt`](https://github.com/alexandernanberg/eslint-plugin-fbt)
+
+[![github](https://img.shields.io/github/package-json/v/alexandernanberg/eslint-plugin-fbt)](https://github.com/alexandernanberg/eslint-plugin-fbt)
+[![github stars](https://img.shields.io/github/stars/alexandernanberg/eslint-plugin-fbt)](https://github.com/alexandernanberg/eslint-plugin-fbt)
+
+### [`babel-plugin-fbt-import`](https://github.com/alexandernanberg/babel-plugin-fbt-import)
+
+[![github](https://img.shields.io/github/package-json/v/alexandernanberg/babel-plugin-fbt-import)](https://github.com/alexandernanberg/babel-plugin-fbt-import)
+[![github stars](https://img.shields.io/github/stars/alexandernanberg/babel-plugin-fbt-import)](https://github.com/alexandernanberg/babel-plugin-fbt-import)
+
+### [`react-toolkit`](https://github.com/alexandernanberg/react-toolkit)
+
+[![github](https://img.shields.io/github/package-json/v/alexandernanberg/react-toolkit)](https://github.com/alexandernanberg/react-toolkit)
+[![github stars](https://img.shields.io/github/stars/alexandernanberg/react-toolkit)](https://github.com/alexandernanberg/react-toolkit)
+
+## Open Source Contributions
+
+### [`@react-three/fiber`](https://github.com/pmndrs/react-three-fiber)
+
+- [Add missing bufferAttribute intrinsic elements](https://github.com/pmndrs/react-three-fiber/pull/2102)
+- [Add Object3D to IntrinsicElements](https://github.com/pmndrs/react-three-fiber/pull/2099)
+- [Remove unused resize-observer-polyfill dependency](https://github.com/pmndrs/react-three-fiber/pull/2044)
+
+### [`styled-components`](https://github.com/gatsbyjs/gatsby)
+
+- [Use Webpack hooks API instead of deprecated Tapable.plugin](https://github.com/styled-components/styled-components/pull/2355)
+- [Migrate to new React context](https://github.com/styled-components/styled-components/pull/1894)
+- [Initial work for Hooks adoption](https://github.com/styled-components/styled-components/pull/2349)
+
+### [`reactjs.org`](https://github.com/reactjs/reactjs.org)
+
+- [Upgrade Gatsby to v2](https://github.com/reactjs/reactjs.org/pull/1104)
+
+### [`next.js`](https://github.com/vercel/next.js)
+
+- [Migrate next/head to use `React.createContext`](https://github.com/vercel/next.js/pull/6038)
+
+### [`gatsby`](https://github.com/gatsbyjs/gatsby)
+
+- [Fix memory leak and use more appropriate data structures for cache and listeners](https://github.com/gatsbyjs/gatsby/pull/10278)
+- [Convert default-html to a function component](https://github.com/gatsbyjs/gatsby/pull/11146)
+- [Add gatsby-link snapshot testing](https://github.com/gatsbyjs/gatsby/pull/7090)
+- [Fix gatsby-link hash scrolling](https://github.com/gatsbyjs/gatsby/pull/7077)
+- [Remove react-lifecycles-compat](https://github.com/gatsbyjs/gatsby/pull/7070)
+- [Fix redirect history.replace error](https://github.com/gatsbyjs/gatsby/pull/7018)
+
+### [`@types/fbt`](https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/fbt)
+
+- [Add fbt types](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/52656)
+
+- [Add `aria-current` attribute](https://github.com/flatpickr/flatpickr/pull/1309)
+- [Support `npm-sass`](https://github.com/flatpickr/flatpickr/pull/586)
+
+### [`date-fns`](https://github.com/date-fns/date-fns)
+
+- [Enable tree-shaking](https://github.com/date-fns/date-fns/pull/711)
+- [Update Swedish translation](https://github.com/date-fns/date-fns/pull/749) [<sup>2</sup>](https://github.com/date-fns/date-fns/pull/570)
+
+### [mdx](https://github.com/mdx-js/mdx/)
+
+- [Upgrade to Babel v7](https://github.com/mdx-js/mdx/pull/494)
+- [Change wrapper default element to `React.Fragment`](https://github.com/mdx-js/mdx/pull/470)
+- [Convert MDXContent to a function component](https://github.com/mdx-js/mdx/pull/427)
+- [Add `useMDXComponents` hook](https://github.com/mdx-js/mdx/pull/440)
+- [Migrate `@mdx-js/tag` to hooks](https://github.com/mdx-js/mdx/pull/417)
+
+### [`eslint-plugin-react`](https://github.com/yannickcr/eslint-plugin-react/)
+
+- [Ignore class properties in destructuring-assignment](https://github.com/yannickcr/eslint-plugin-react/pull/1909)
+
+### [`downshift`](https://github.com/downshift-js/downshift)
+
+- [Improve example a11y](https://github.com/downshift-js/downshift/pull/554)
+- [Validate that getMenuProps has set the ref correctly](https://github.com/downshift-js/downshift/pull/525)
+- [Refactor timeout handling on unmount](https://github.com/downshift-js/downshift/pull/517)
+- [Update JSDoc comments](https://github.com/downshift-js/downshift/pull/514)
+- [Fix memory leak warning](https://github.com/downshift-js/downshift/pull/479)
+- [Handle toggle button keyboard events properly](https://github.com/downshift-js/downshift/pull/484)
+- [+ a bunch of more maintenance PRs](https://github.com/downshift-js/downshift/pulls?q=is%3Apr+sort%3Aupdated-desc+author%3Aalexandernanberg+is%3Amerged)
+
+### [`netlify-cms`](https://github.com/netlify/netlify-cms)
+
+- [Use react-select and add support for multiple entries](https://github.com/netlify/netlify-cms/pull/1936)
+- [Add basic route code-splitting](https://github.com/netlify/netlify-cms/pull/1889)
+- [Wrap navigation items in lists for better a11y](https://github.com/netlify/netlify-cms/pull/1903)
+- [Remove unnecessary wrapper elements](https://github.com/netlify/netlify-cms/pull/1888)
+- [+ a bunch of more maintenance PRs](https://github.com/netlify/netlify-cms/pulls?q=is%3Apr+sort%3Aupdated-desc+author%3Aalexandernanberg+is%3Amerged)
+
+### [`r3f-perf`](https://github.com/utsuboco/r3f-perf)
+
+- [Simplify `<Html>` component](https://github.com/utsuboco/r3f-perf/pull/31)
+
+### [`miniplex`](https://github.com/hmans/miniplex)
+
+- [add useConstant hook](https://github.com/hmans/miniplex/pull/3)
+
+### [`flatpickr`](https://github.com/flatpickr/flatpickr)
+
+- [Add `aria-current` attribute for selected date](https://github.com/flatpickr/flatpickr/pull/1309)
+- [Support `npm-sass`](https://github.com/flatpickr/flatpickr/pull/586)
