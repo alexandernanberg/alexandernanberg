@@ -1,14 +1,4 @@
-<div align="center">
-	<br>
-	<br>
-	<br>
-	<br>
-	<picture >
-	  <source srcset="https://github.githubassets.com/images/mona-loading-dark.gif" media="(prefers-color-scheme: dark)">
-	  <img src="https://github.githubassets.com/images/mona-loading.gif" width="40" height="40">
-	</picture>
-	<br>
-	<br>
-	<br>
-	<br>
-</div>
+### Hello there 👋
+
+Have a look at my [open source contributions](/open-source.md) for a list of projects I've contributed to.
+
