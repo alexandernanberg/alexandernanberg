@@ -52,9 +52,6 @@
 
 - [Add fbt types](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/52656)
 
-- [Add `aria-current` attribute](https://github.com/flatpickr/flatpickr/pull/1309)
-- [Support `npm-sass`](https://github.com/flatpickr/flatpickr/pull/586)
-
 ### [`date-fns`](https://github.com/date-fns/date-fns)
 
 - [Enable tree-shaking](https://github.com/date-fns/date-fns/pull/711)
