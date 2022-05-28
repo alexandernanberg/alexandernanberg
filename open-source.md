@@ -39,6 +39,10 @@
 
 - [Migrate next/head to use `React.createContext`](https://github.com/vercel/next.js/pull/6038)
 
+### [`rapier.js`](https://github.com/dimforge/rapier.js)
+
+- [Improve CI setup](https://github.com/dimforge/rapier.js/pull/115)
+
 ### [`gatsby`](https://github.com/gatsbyjs/gatsby)
 
 - [Fix memory leak and use more appropriate data structures for cache and listeners](https://github.com/gatsbyjs/gatsby/pull/10278)
