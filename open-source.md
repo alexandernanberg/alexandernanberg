@@ -43,6 +43,7 @@
 
 - [Improve CI setup](https://github.com/dimforge/rapier.js/pull/115)
 - [Update `typedoc`](https://github.com/dimforge/rapier.js/pull/117)
+- [Add `wasm-pack` as npm dependency](https://github.com/dimforge/rapier.js/pull/123)
 
 ### [`gatsby`](https://github.com/gatsbyjs/gatsby)
 
