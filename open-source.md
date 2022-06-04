@@ -44,6 +44,11 @@
 - [Improve CI setup](https://github.com/dimforge/rapier.js/pull/115)
 - [Update `typedoc`](https://github.com/dimforge/rapier.js/pull/117)
 - [Add `wasm-pack` as npm dependency](https://github.com/dimforge/rapier.js/pull/123)
+- [Upgrade `webpack` to v5](https://github.com/dimforge/rapier.js/pull/127)
+- [Add TypeScript support](https://github.com/dimforge/rapier.js/pull/128)
+- [Add `prettier`](https://github.com/dimforge/rapier.js/pull/97)
+- [Replace `dat.gui` with `lil-gui`](https://github.com/dimforge/rapier.js/pull/126)
+- [Add canary release setup]() https://github.com/dimforge/rapier.js/pull/114
 
 ### [`gatsby`](https://github.com/gatsbyjs/gatsby)
 
