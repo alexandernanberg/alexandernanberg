@@ -48,7 +48,7 @@
 - [Add TypeScript support](https://github.com/dimforge/rapier.js/pull/128)
 - [Add `prettier`](https://github.com/dimforge/rapier.js/pull/97)
 - [Replace `dat.gui` with `lil-gui`](https://github.com/dimforge/rapier.js/pull/126)
-- [Add canary release setup]() https://github.com/dimforge/rapier.js/pull/114
+- [Setup automatic canary releases](https://github.com/dimforge/rapier.js/pull/114)
 
 ### [`gatsby`](https://github.com/gatsbyjs/gatsby)
 
