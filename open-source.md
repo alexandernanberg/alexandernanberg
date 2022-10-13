@@ -19,11 +19,9 @@
 
 ## Open Source Contributions
 
-### [`@react-three/fiber`](https://github.com/pmndrs/react-three-fiber)
+### [`next.js`](https://github.com/vercel/next.js)
 
-- [Add missing bufferAttribute intrinsic elements](https://github.com/pmndrs/react-three-fiber/pull/2102)
-- [Add Object3D to IntrinsicElements](https://github.com/pmndrs/react-three-fiber/pull/2099)
-- [Remove unused resize-observer-polyfill dependency](https://github.com/pmndrs/react-three-fiber/pull/2044)
+- [Migrate next/head to use `React.createContext`](https://github.com/vercel/next.js/pull/6038)
 
 ### [`styled-components`](https://github.com/gatsbyjs/gatsby)
 
@@ -32,13 +30,15 @@
 - [Initial work for Hooks adoption](https://github.com/styled-components/styled-components/pull/2349)
 - [Fix sandbox linking](https://github.com/styled-components/styled-components/pull/3822)
 
-### [`reactjs.org`](https://github.com/reactjs/reactjs.org)
+### [`@react-three/fiber`](https://github.com/pmndrs/react-three-fiber)
 
-- [Upgrade Gatsby to v2](https://github.com/reactjs/reactjs.org/pull/1104)
+- [Add missing bufferAttribute intrinsic elements](https://github.com/pmndrs/react-three-fiber/pull/2102)
+- [Add Object3D to IntrinsicElements](https://github.com/pmndrs/react-three-fiber/pull/2099)
+- [Remove unused resize-observer-polyfill dependency](https://github.com/pmndrs/react-three-fiber/pull/2044)
 
-### [`next.js`](https://github.com/vercel/next.js)
+### [`@react-three/rapier`](https://github.com/pmndrs/react-three-rapier)
 
-- [Migrate next/head to use `React.createContext`](https://github.com/vercel/next.js/pull/6038)
+- [Use native Rapier debug renderer](https://github.com/pmndrs/react-three-rapier/pull/146)
 
 ### [`rapier.js`](https://github.com/dimforge/rapier.js)
 
@@ -51,10 +51,6 @@
 - [Replace `dat.gui` with `lil-gui`](https://github.com/dimforge/rapier.js/pull/126)
 - [Setup automatic canary releases](https://github.com/dimforge/rapier.js/pull/114)
 
-### [`@react-three/rapier`](https://github.com/pmndrs/react-three-rapier)
-
-- [Use native Rapier debug renderer](https://github.com/pmndrs/react-three-rapier/pull/146)
-
 ### [`gatsby`](https://github.com/gatsbyjs/gatsby)
 
 - [Fix memory leak and use more appropriate data structures for cache and listeners](https://github.com/gatsbyjs/gatsby/pull/10278)
@@ -63,6 +59,10 @@
 - [Fix gatsby-link hash scrolling](https://github.com/gatsbyjs/gatsby/pull/7077)
 - [Remove react-lifecycles-compat](https://github.com/gatsbyjs/gatsby/pull/7070)
 - [Fix redirect history.replace error](https://github.com/gatsbyjs/gatsby/pull/7018)
+
+### [`reactjs.org`](https://github.com/reactjs/reactjs.org)
+
+- [Upgrade Gatsby to v2](https://github.com/reactjs/reactjs.org/pull/1104)
 
 ### [`@types/fbt`](https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/fbt)
 
