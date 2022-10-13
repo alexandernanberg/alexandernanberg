@@ -30,6 +30,7 @@
 - [Use Webpack hooks API instead of deprecated Tapable.plugin](https://github.com/styled-components/styled-components/pull/2355)
 - [Migrate to new React context](https://github.com/styled-components/styled-components/pull/1894)
 - [Initial work for Hooks adoption](https://github.com/styled-components/styled-components/pull/2349)
+- [Fix sandbox linking](https://github.com/styled-components/styled-components/pull/3822)
 
 ### [`reactjs.org`](https://github.com/reactjs/reactjs.org)
 
@@ -49,6 +50,10 @@
 - [Add `prettier`](https://github.com/dimforge/rapier.js/pull/97)
 - [Replace `dat.gui` with `lil-gui`](https://github.com/dimforge/rapier.js/pull/126)
 - [Setup automatic canary releases](https://github.com/dimforge/rapier.js/pull/114)
+
+### [`@react-three/rapier`](https://github.com/pmndrs/react-three-rapier)
+
+- [Use native Rapier debug renderer](https://github.com/pmndrs/react-three-rapier/pull/146)
 
 ### [`gatsby`](https://github.com/gatsbyjs/gatsby)
 
