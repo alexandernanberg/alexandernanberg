@@ -30,6 +30,10 @@
 - [Initial work for Hooks adoption](https://github.com/styled-components/styled-components/pull/2349)
 - [Fix sandbox linking](https://github.com/styled-components/styled-components/pull/3822)
 
+### [`mobx`](https://github.com/mobxjs/mobx)
+
+- [Use `defineProperty` helper](https://github.com/mobxjs/mobx/pull/3629)
+
 ### [`@react-three/fiber`](https://github.com/pmndrs/react-three-fiber)
 
 - [Add missing bufferAttribute intrinsic elements](https://github.com/pmndrs/react-three-fiber/pull/2102)
