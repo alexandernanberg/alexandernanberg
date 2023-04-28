@@ -23,6 +23,10 @@
 
 - [Migrate next/head to use `React.createContext`](https://github.com/vercel/next.js/pull/6038)
 
+### [`react-router`](https://github.com/remix-run/react-router)
+
+- [Avoid unnecessary router subscribes](https://github.com/remix-run/react-router/pull/10400)
+
 ### [`styled-components`](https://github.com/gatsbyjs/gatsby)
 
 - [Use Webpack hooks API instead of deprecated Tapable.plugin](https://github.com/styled-components/styled-components/pull/2355)
