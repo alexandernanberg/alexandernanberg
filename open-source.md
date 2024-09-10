@@ -12,11 +12,6 @@
 [![github](https://img.shields.io/github/package-json/v/alexandernanberg/babel-plugin-fbt-import)](https://github.com/alexandernanberg/babel-plugin-fbt-import)
 [![github stars](https://img.shields.io/github/stars/alexandernanberg/babel-plugin-fbt-import)](https://github.com/alexandernanberg/babel-plugin-fbt-import)
 
-### [`react-toolkit`](https://github.com/alexandernanberg/react-toolkit)
-
-[![github](https://img.shields.io/github/package-json/v/alexandernanberg/react-toolkit)](https://github.com/alexandernanberg/react-toolkit)
-[![github stars](https://img.shields.io/github/stars/alexandernanberg/react-toolkit)](https://github.com/alexandernanberg/react-toolkit)
-
 ## Open Source Contributions
 
 ### [`next.js`](https://github.com/vercel/next.js)
