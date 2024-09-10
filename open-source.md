@@ -34,6 +34,10 @@
 - [Initial work for Hooks adoption](https://github.com/styled-components/styled-components/pull/2349)
 - [Fix sandbox linking](https://github.com/styled-components/styled-components/pull/3822)
 
+### [`sonner`](https://github.com/emilkowalski/sonner)
+
+- [Add support for custom close icons](https://github.com/emilkowalski/sonner/pull/481)
+
 ### [`mobx`](https://github.com/mobxjs/mobx)
 
 - [Use `defineProperty` helper](https://github.com/mobxjs/mobx/pull/3629)
