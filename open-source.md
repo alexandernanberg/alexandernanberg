@@ -33,6 +33,10 @@
 
 - [Add support for custom close icons](https://github.com/emilkowalski/sonner/pull/481)
 
+### [`react-pdf`](https://github.com/diegomura/react-pdf)
+
+- [Initial work for upgrading renderer to work with React 19](https://github.com/diegomura/react-pdf/pull/2783) 
+
 ### [`mobx`](https://github.com/mobxjs/mobx)
 
 - [Use `defineProperty` helper](https://github.com/mobxjs/mobx/pull/3629)
