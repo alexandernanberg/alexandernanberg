@@ -43,6 +43,7 @@
 
 ### [`@react-three/fiber`](https://github.com/pmndrs/react-three-fiber)
 
+- [Remove forwardRef](https://github.com/pmndrs/react-three-fiber/pull/3282)
 - [Add missing bufferAttribute intrinsic elements](https://github.com/pmndrs/react-three-fiber/pull/2102)
 - [Add Object3D to IntrinsicElements](https://github.com/pmndrs/react-three-fiber/pull/2099)
 - [Remove unused resize-observer-polyfill dependency](https://github.com/pmndrs/react-three-fiber/pull/2044)
