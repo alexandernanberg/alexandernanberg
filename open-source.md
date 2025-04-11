@@ -54,6 +54,7 @@
 
 ### [`rapier.js`](https://github.com/dimforge/rapier.js)
 
+- [Add `RigidBody.velocityAtPoint`](https://github.com/dimforge/rapier.js/pull/305)
 - [Improve CI setup](https://github.com/dimforge/rapier.js/pull/115)
 - [Update `typedoc`](https://github.com/dimforge/rapier.js/pull/117)
 - [Add `wasm-pack` as npm dependency](https://github.com/dimforge/rapier.js/pull/123)
